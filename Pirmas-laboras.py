@@ -6,7 +6,7 @@ Išėjimo skaičiavimas atliekamas pagal formulę: y = 1, kai x1*w1 + x2*w2 + b 
 (MATLAB pvz.: w1 = randn(1);) pirmąją programos veikimo iteraciją ir vėliau atnaujinami mokymo algoritmu;
 x1 ir x2 yra objektų požymiai, apskaičiuoti Matlab funkcijomis, esančiomis paruoštame kodo ruošinyje arba
 Data.txt faile (kiekvienoje eilutėje yra toks duomenų formatas: požymis1, požymis2, norimas_atsakymas),
-jei ketinate naudoti ne Matlab.
+jei ketinate naudoti ne Matlab..
 
 """
 import numpy as np
